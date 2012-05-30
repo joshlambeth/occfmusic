@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists
+END
+playlistFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/playlistFunctions.php
+END
+getAllPlaylistsHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/getAllPlaylistsHandler.php
+END
+getSongsFromPlaylistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/getSongsFromPlaylistHandler.php
+END
+addPlaylistSongsAssociationHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/addPlaylistSongsAssociationHandler.php
+END
+deleteSongsFromPlaylistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/deleteSongsFromPlaylistHandler.php
+END
+deletePlaylistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/deletePlaylistHandler.php
+END
+playlistSongsFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/playlistSongsFunctions.php
+END
+createPlaylist.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/createPlaylist.php
+END
+editPlaylistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/editPlaylistHandler.php
+END
+addPlaylistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/playlists/addPlaylistHandler.php
+END

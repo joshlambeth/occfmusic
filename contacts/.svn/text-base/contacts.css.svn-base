@@ -1,0 +1,17 @@
+/* 
+    Document   : contacts
+    Created on : Jan 31, 2012, 12:08:07 AM
+    Author     : abelambeth
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+        
+            .ui-selecting {
+                background: silver;
+            }
+            .ui-selected {
+                background: gray;
+            }
+       
+

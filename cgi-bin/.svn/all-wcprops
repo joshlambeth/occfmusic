@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/joshlambeth/WorshipLeader/svn/!svn/ver/1/cgi-bin
+END
+test-cgi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/joshlambeth/WorshipLeader/svn/!svn/ver/1/cgi-bin/test-cgi
+END
+printenv
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/joshlambeth/WorshipLeader/svn/!svn/ver/1/cgi-bin/printenv
+END
+php-cgi
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/joshlambeth/WorshipLeader/svn/!svn/ver/1/cgi-bin/php-cgi
+END
+php4-cgi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/joshlambeth/WorshipLeader/svn/!svn/ver/1/cgi-bin/php4-cgi
+END
+php5-cgi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/joshlambeth/WorshipLeader/svn/!svn/ver/1/cgi-bin/php5-cgi
+END

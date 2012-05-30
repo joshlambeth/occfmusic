@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists
+END
+setlistSongsFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/setlistSongsFunctions.php
+END
+createSetlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/createSetlist.php
+END
+editSetlistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/editSetlistHandler.php
+END
+addSetlistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/addSetlistHandler.php
+END
+setlistFunctions.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/setlistFunctions.php
+END
+getAllSetlistsHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/getAllSetlistsHandler.php
+END
+getSongsFromSetlistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/getSongsFromSetlistHandler.php
+END
+addSetlistSongsAssociationHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/addSetlistSongsAssociationHandler.php
+END
+deleteSongsFromSetlistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/deleteSongsFromSetlistHandler.php
+END
+deleteSetlistHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/joshlambeth/WorshipLeader/svn/!svn/ver/2/setLists/deleteSetlistHandler.php
+END
